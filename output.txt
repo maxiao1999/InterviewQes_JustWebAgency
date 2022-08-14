@@ -1,0 +1,45 @@
+Star Name:  Robert Downey Jr.         Movies:  9  ||  Average Rate:  7.70
+Star Name:  Chris Hemsworth           Movies:  6  ||  Average Rate:  7.63
+Star Name:  Mark Ruffalo              Movies:  4  ||  Average Rate:  8.00
+Star Name:  Chris Evans               Movies:  9  ||  Average Rate:  7.31
+Star Name:  Hugh Jackman              Movies:  7  ||  Average Rate:  7.26
+Star Name:  Patrick Stewart           Movies:  5  ||  Average Rate:  7.50
+Star Name:  Scarlett Johansson        Movies:  3  ||  Average Rate:  7.83
+Star Name:  Samuel L. Jackson         Movies:  4  ||  Average Rate:  7.20
+Star Name:  Ian McKellen              Movies:  3  ||  Average Rate:  7.57
+Star Name:  James McAvoy              Movies:  3  ||  Average Rate:  7.50
+Star Name:  Gwyneth Paltrow           Movies:  3  ||  Average Rate:  7.33
+Star Name:  Chris Pratt               Movies:  2  ||  Average Rate:  7.80
+Star Name:  Vin Diesel                Movies:  2  ||  Average Rate:  7.80
+Star Name:  Zoe Saldana               Movies:  2  ||  Average Rate:  7.80
+Star Name:  Tobey Maguire             Movies:  3  ||  Average Rate:  6.93
+Star Name:  Kirsten Dunst             Movies:  3  ||  Average Rate:  6.93
+Star Name:  James Franco              Movies:  2  ||  Average Rate:  7.30
+Star Name:  Ryan Reynolds             Movies:  4  ||  Average Rate:  7.02
+Star Name:  Morena Baccarin           Movies:  2  ||  Average Rate:  7.85
+Star Name:  T.J. Miller               Movies:  2  ||  Average Rate:  7.90
+Star Name:  Halle Berry               Movies:  2  ||  Average Rate:  7.05
+Star Name:  Tom Hiddleston            Movies:  3  ||  Average Rate:  7.23
+Star Name:  Michael Fassbender        Movies:  2  ||  Average Rate:  7.30
+Star Name:  Jennifer Lawrence         Movies:  2  ||  Average Rate:  7.30
+Star Name:  Michael B. Jordan         Movies:  2  ||  Average Rate:  5.75
+Star Name:  Tom Holland               Movies:  2  ||  Average Rate:  7.40
+Star Name:  Marisa Tomei              Movies:  2  ||  Average Rate:  7.40
+Star Name:  Paul Rudd                 Movies:  2  ||  Average Rate:  7.15
+Star Name:  Evangeline Lilly          Movies:  2  ||  Average Rate:  7.15
+Star Name:  Natalie Portman           Movies:  2  ||  Average Rate:  6.90
+Star Name:  Famke Janssen             Movies:  2  ||  Average Rate:  7.05
+Star Name:  Wesley Snipes             Movies:  3  ||  Average Rate:  6.53
+Star Name:  Kris Kristofferson        Movies:  3  ||  Average Rate:  6.53
+Star Name:  Don Cheadle               Movies:  2  ||  Average Rate:  7.05
+Star Name:  Andrew Garfield           Movies:  2  ||  Average Rate:  6.75
+Star Name:  Emma Stone                Movies:  2  ||  Average Rate:  6.75
+Star Name:  Will Yun Lee              Movies:  2  ||  Average Rate:  5.70
+Star Name:  Sam Elliott               Movies:  2  ||  Average Rate:  5.45
+Star Name:  Ioan Gruffudd             Movies:  2  ||  Average Rate:  5.65
+Star Name:  Michael Chiklis           Movies:  2  ||  Average Rate:  5.65
+Star Name:  Jessica Alba              Movies:  2  ||  Average Rate:  5.65
+Star Name:  Nicolas Cage              Movies:  2  ||  Average Rate:  4.80
+Star Name:  Jennifer Garner           Movies:  2  ||  Average Rate:  5.00
+
+Process finished with exit code 0
